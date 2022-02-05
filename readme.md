@@ -1,8 +1,8 @@
 # Cypress Automation Test - E2E - Front
 
 ## Instalacion
-1- Clonar o descargar repositorio.
-2- Para instalar las dependencias ejecutar ```npm install``` dentro del proyecto.
+1. Clonar o descargar repositorio.
+2. Para instalar las dependencias ejecutar ```npm install``` dentro del proyecto.
 
 ## Algunas configuraciones extra:
 1. En la carpeta ``/fixtures/fixtures-data`` encontraremos un archivo llamado data_to_signin.json donde se encuentran los datos a completar para el registro y para el login. 
